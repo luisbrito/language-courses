@@ -1,2 +1,11 @@
 # language-courses
-Develop and Test Changes Locally Learning Objectives After completing this unit, you’ll be able to:  Create a branch and commit changes to a source control repository. Authorize a sandbox using Salesforce Extensions for VS Code. Retrieve changes from a sandbox.
+Develop and Test Changes Locally
+
+Learning Objectives
+After completing this unit, you’ll be able to:
+
+Create a branch and commit changes to a source control repository.
+Authorize a sandbox using Salesforce Extensions for VS Code.
+Retrieve changes from a sandbox.
+
+https://trailhead.salesforce.com/pt-BR/content/learn/modules/org-development-model/develop-and-test-changes-locally2
